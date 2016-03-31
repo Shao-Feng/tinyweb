@@ -52,9 +52,9 @@ deploy:
   provider: releases
   skip_cleanup: true
   api_key:
-    secure: cGpRQL/OS+/b6Z2ULnAs41l5Oj9ZhCzGPNZ/ozRtGBUMpo8EQlbtiAyvENLn50DhXbT/01+ZkUOgm0jNASAu72UTZIz79393+5AoJfgx7L3cG/i+Hp6HFWFt0N7vPQyK8AdCM401GnhCeSo+/5tLqkgFuGvChAOp5uKaj46dg5U=
+    secure: f7lXfuOqvPPyqTB0FIUnCbz8Q9pWqyYUJxO6V8F2/IeJDyrsuhGWCYGgg+WspCiB1DDNzdfXVzFzIkPkMeyXzzIld0m/YJLpmA6Mq8ElfKTejxjowBRXd9WeRh3oOUO3seSY0uxKmsUXJWwZ8m+jHPIe68oI2Gu7XDQMzGi9ORxxhYfdLIv0DrWHVEmV43aiNqEqwsJDWYI894s2jeBwpWGgVT/BTV3pMUBFHhgk2FFKND9EmENSI0GbsB362iV0CcQrKRsYXU40Eb/9bXDjL2dYJPFPhmZIX47vhp2Y9+R7rjh8y/va7kRxnby77Xu0bfQA6WKXAmRFCX9roaon/cahPRC8Cql4+Cnbkd9NipmGjZ0uhvS+PSMlJXWGiCLknAsaTlE92eUFN3j8uYsztKx6p1BgD/+WgY+J6KrTT9xejyYKh4JIVh/nIzufs/NRlHdenhbvkY5qBGkofl8rTHT/s7pEua5eV3ExKWmjX8ZJ5Tp26QdntiCspR+Y1ZG95DbL2zRY2mURon+pHSiMYN3rP/aqD+36KUoV8n2g31J+fhuJqCMI4vC2qK/QBw8rTFbrHQ+UMFCTg8bOFY74+UC1TmsIXhtKStuP//XBZwRM0Gvhmyqxx0w1YOR83ixjgQFq+Q3jaaorLc/dPfWq7LKvkKbcBUdpn9arI9+aoM4=
   file: ./tinyweb.tar.gz
   on:
-    repo: testkit/tinyweb
+    repo: Shao-Feng/tinyweb
     tags: true
     all_branches: true
